@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Labo42</string>
+    <string name="movie_name_string">Movie</string>
+    <string name="movie_title_string">Title</string>
+    <string name="rate_ex_string">Rate</string>
+    <string name="lorem_30_string">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis
+        exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores
+        quasi cupiditate. Voluptatum ducimus voluptates voluptas?
+    </string>
+    <string name="runtime_ex_string">Ex</string>
+</resources>
